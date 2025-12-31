@@ -295,19 +295,6 @@ service cloud.firestore {
 
 ---
 
-## 🚧 Roadmap
-
-- [x] **Python Web Scraper Integration**: Automated news fetching with AI summarization
-- [ ] **Categories & Filters**: Filter news by topic/source
-- [ ] **Dark Mode**: Theme toggle
-- [ ] **Push Notifications**: Alert users to breaking news
-- [ ] **Offline Mode**: Cache articles for offline reading
-- [ ] **Analytics**: Track reading habits and preferences
-- [ ] **Social Features**: Follow friends, see what they're reading
-- [ ] **Multi-language Support**: Internationalization
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -317,29 +304,6 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Firebase for backend infrastructure
-- All open-source package contributors
-- News sources for content
 
 ---
 
